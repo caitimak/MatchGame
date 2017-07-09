@@ -1,0 +1,40 @@
+html {
+  font-size: 14px;
+
+}
+
+body {
+  background-color: rgb(255, 242, 242);
+  padding-top: 5.25rem;
+  font-family: "Work Sans", sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 2.5rem;
+  color: rgb(32, 64, 86);
+}
+
+p {
+  font-size: 1rem;
+  color: rgb(74, 74, 74);
+  font-size: 1rem;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.card {
+  background-color: rgb(32, 64, 86);
+  height: 12.5rem;
+  border: 4px solid #fff;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-weight: 900;
+  font-size: 7rem;
+  color: rgb(255, 255, 255);
+}
